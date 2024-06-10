@@ -6,10 +6,9 @@ A comprehensive Android application that delivers the latest weather updates and
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
 - [Usage](#usage)
-
 
 ## Features
 - Display weather information for a selected city.
